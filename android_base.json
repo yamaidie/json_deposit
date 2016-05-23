@@ -2,23 +2,23 @@
 "androidbase": [
 {
 "title": "activity的启动模式",
-"contain":"http://jxsd.github.io/2016/05/21/android%E2%80%94-launchMode/"
+"contain": "http://jxsd.github.io/2016/05/21/android%E2%80%94-launchMode/"
 },
 {
 "title": "IPC机制",
-"contain":"http://jxsd.github.io/2016/04/07/IPC机制/"
+"contain": "http://jxsd.github.io/2016/04/07/IPC机制/"
 },
 {
 "title": "view的事件体系"
-"contain":"http://jxsd.github.io/2016/04/10/view的事件体系/"	
+"contain": "http://jxsd.github.io/2016/04/10/view的事件体系/"	
 },
 {
 "title": "view的工作原理"
-"contain":"http://jxsd.github.io/2016/05/06/view的工作原理/"
+"contain": "http://jxsd.github.io/2016/05/06/view的工作原理/"
 },
 {
 "title": "android的消息机制"
-"contain":"http://jxsd.github.io/2016/04/14/android的消息机制/"
+"contain": "http://jxsd.github.io/2016/04/14/android的消息机制/"
 }
 ]
 }
