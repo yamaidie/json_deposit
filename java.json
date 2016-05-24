@@ -1,4 +1,38 @@
 {
+"javabase": [
+{
+"title": "Lambda",
+"contain": "http://jxsd.github.io/2016/05/13/Lambda/"
+},
+{
+"title": "UML类图",
+"contain": "http://www.open-open.com/lib/view/open1328059700311.html"
+},
+{
+"title": "动态绑定与静态绑定",
+"contain": "http://blog.sina.com.cn/s/blog_600046120100wdza.html"
+},
+{
+"title": "异常处理机制",
+"contain": "http://blog.csdn.net/hguisu/article/details/6155636"
+},
+{
+"title": "泛型",
+"contain": "http://www.cnblogs.com/lwbqqyumidi/p/3837629.html"
+},
+{
+"title": "IO",
+"contain": "http://blog.csdn.net/yczz/article/details/38761237"
+},
+{
+"title": "集合",
+"contain": "http://blog.csdn.net/softwave/article/details/4166598"
+},
+{
+"title": "多态性",
+"contain": "http://developer.51cto.com/art/200906/130414.htm"
+}
+],
 "jvm": [
 {
 "title": "jvm调优",
@@ -37,7 +71,7 @@
 "contain": "http://jxsd.github.io/2016/01/16/java内存模型与线程/"
 }
 ],
-"javabase": [
+"others": [
 {
 "title": "Lambda",
 "contain": "http://jxsd.github.io/2016/05/13/Lambda/"
