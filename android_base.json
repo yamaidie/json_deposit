@@ -1,8 +1,32 @@
 {
 "androidbase": [
 {
+"title": "ui基础知识",
+"contain": "http://jxsd.github.io/2016/03/28/ui基础知识/"
+},
+{
 "title": "activity的启动模式",
 "contain": "http://jxsd.github.io/2016/05/21/android%E2%80%94-launchMode/"
+},
+{
+"title": "notification",
+"contain": "http://jxsd.github.io/2016/03/28/notification/"
+},
+{
+"title": "service",
+"contain": "http://jxsd.github.io/2016/03/28/service/"
+},
+{
+"title": "ContentProvider",
+"contain": "http://jxsd.github.io/2016/03/28/ContentProvider/"
+},
+{
+"title": "android数据存储与持久化",
+"contain": "http://jxsd.github.io/2016/03/28/android数据存储与持久化/"
+},
+{
+"title": "broadcast",
+"contain": "http://jxsd.github.io/2016/03/28/broadcast/"
 },
 {
 "title": "IPC机制",
