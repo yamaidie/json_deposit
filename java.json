@@ -80,5 +80,9 @@
 "title": "RxJava",
 "contain": "http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/"
 }
+{
+"title": "design_patterns",
+"contain": "https://github.com/yamaidie/design_patterns"
+},
 ]
 }
