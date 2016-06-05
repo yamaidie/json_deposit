@@ -1,0 +1,41 @@
+[
+{
+"title": "Singleton",
+"contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/Singleton"
+},
+{
+"title": "factory_kit",
+"contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/factory_kit"
+},
+{
+"title": "factory_method",
+"contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/factory_method"
+}
+{
+"title": "abstract_factory",
+"contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/abstract_factory"
+},
+{
+"title": "adapter",
+"contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/adapter"
+}
+{
+"title": "command",
+"contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/command"
+},
+{
+"title": "decorator",
+"contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/decorator"
+},
+"title": "observer",
+"contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/observer"
+},
+{
+"title": "proxy",
+"contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/proxy"
+},
+{
+"title": "strategy",
+"contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/strategy"
+}
+]
