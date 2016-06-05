@@ -1,0 +1,88 @@
+{
+"javabase": [
+{
+"title": "Lambda",
+"contain": "http://jxsd.github.io/2016/05/13/Lambda/"
+},
+{
+"title": "UML类图",
+"contain": "http://www.open-open.com/lib/view/open1328059700311.html"
+},
+{
+"title": "动态绑定与静态绑定",
+"contain": "http://blog.sina.com.cn/s/blog_600046120100wdza.html"
+},
+{
+"title": "异常处理机制",
+"contain": "http://blog.csdn.net/hguisu/article/details/6155636"
+},
+{
+"title": "泛型",
+"contain": "http://www.cnblogs.com/lwbqqyumidi/p/3837629.html"
+},
+{
+"title": "IO",
+"contain": "http://blog.csdn.net/yczz/article/details/38761237"
+},
+{
+"title": "集合",
+"contain": "http://blog.csdn.net/softwave/article/details/4166598"
+},
+{
+"title": "多态性",
+"contain": "http://developer.51cto.com/art/200906/130414.htm"
+}
+],
+"jvm": [
+{
+"title": "jvm调优",
+"contain": "http://jxsd.github.io/2016/03/23/jvm调优/"
+},
+{
+"title": "GC与内存分配",
+"contain": "http://jxsd.github.io/2016/03/17/GC与内存分配/"
+},
+{
+"title": "java内存区域与内存溢出异常",
+"contain": "http://jxsd.github.io/2016/03/13/java内存区域与内存溢出异常/"	
+},
+{
+"title": "虚拟机字节码执行引擎",
+"contain": "http://jxsd.github.io/2016/02/26/虚拟机字节码执行引擎/"
+},
+{
+"title": "虚拟机类加载机制",
+"contain": "http://jxsd.github.io/2016/02/22/虚拟机类加载机制/"
+},
+{
+"title": "线程安全与锁优化",
+"contain": "http://jxsd.github.io/2016/01/20/线程安全与锁优化/"
+},
+{
+"title": "程序编译与代码优化",
+"contain": "http://jxsd.github.io/2016/02/02/程序编译与代码优化/"
+},
+{
+"title": "类文件结构",
+"contain": "http://jxsd.github.io/2016/02/17/类文件结构/"
+},
+{
+"title": "java内存模型与线程",
+"contain": "http://jxsd.github.io/2016/01/16/java内存模型与线程/"
+}
+],
+"others": [
+{
+"title": "idea搭建gradle项目",
+"contain": "http://my.oschina.net/u/1010578/blog/390094?fromerr=bCi78e8s"
+},
+{
+"title": "RxJava",
+"contain": "http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/"
+},
+{
+"title": "design_patterns",
+"contain": "https://github.com/yamaidie/design_patterns"
+}
+]
+}
