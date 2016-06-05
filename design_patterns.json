@@ -11,7 +11,8 @@
 "title": "factory_method",
 "contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/factory_method"
 },
-{"title": "abstract_factory",
+{
+"title": "abstract_factory",
 "contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/abstract_factory"
 },
 {
