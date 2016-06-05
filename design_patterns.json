@@ -27,6 +27,7 @@
 "title": "decorator",
 "contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/decorator"
 },
+{
 "title": "observer",
 "contain": "https://github.com/yamaidie/design_patterns/tree/master/Design_Patterns/src/observer"
 },
